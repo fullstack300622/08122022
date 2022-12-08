@@ -1,0 +1,57 @@
+[
+    {
+        "first_name": "Sarah",
+        "last_name": "Conor",
+        "age":40,
+        "hobbies":["Shooting Robots","Running"],
+        "address":{
+            "Citry":"New York",
+            "Street" :"Five Avenu",
+            "number" : 4567    
+        }
+    },
+    {
+        "first_name": "Benjamin",
+        "last_name": "Franklin",
+        "age":77,
+        "hobbies":["President","Swimming in Money"],
+        "address":{
+            "Citry":"Ramle",
+            "Street" :"harduv",
+            "number" : 32177    
+        }
+    },
+    {
+        "first_name": "Yoav",
+        "last_name": "Caspi",
+        "age":17,
+        "hobbies":["Programming","Football"],
+        "address":{
+            "Citry":"Tel-Aviv",
+            "Street" :"Dizingof",
+            "number" : 431    
+        }
+    },
+    {
+        "first_name": "Dvir",
+        "last_name": "Scanner",
+        "age":24,
+        "hobbies":["Scanner","Java","Back-end"],
+        "address":{
+            "Citry":"Ashdod",
+            "Street" :"yud-alef",
+            "number" : 448    
+        }
+    },
+    {
+        "first_name": "Mark",
+        "last_name": "Vasilenko",
+        "age":24,
+        "hobbies":["Programming","Gaming"],
+        "address":{
+            "Citry":"Petah Tikwa",
+            "Street" :"Zhobotinsky",
+            "number" : 332    
+        }
+    }
+]
